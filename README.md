@@ -1,6 +1,6 @@
 # Sale_bot
 
-Имя бота @SaleForeATest_bot
+Имя бота @SaleForATest_bot
 
 Последовательность действий для запуска приложения:
 
