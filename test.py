@@ -128,5 +128,4 @@ def hot_price(message):
         msg = bot.send_message(message.chat.id, 'Цена должна быть числом, введите ещё раз.')
         bot.register_next_step_handler(msg, hot_price)
 
-
 bot.polling()
