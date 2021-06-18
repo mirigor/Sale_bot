@@ -11,7 +11,7 @@ import re
 from datetime import timedelta
 from django.db.models import F
 
-bot = telebot.TeleBot('1669384508:AAHYiPzqM6cv3aaosjD7f5yJjioaJZ5qS1A')
+bot = telebot.TeleBot('1865979374:AAFwT0oTvLkfjOwar3-FgyvBHbT4h6qD29g')
 
 
 @bot.message_handler(commands=['start'])
