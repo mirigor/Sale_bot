@@ -78,7 +78,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'sale_bot',
         'USER': 'postgres',  # напишите своё имя, если отличается
-        'PASSWORD': '12021997',  # напишите свой пароль
+        'PASSWORD': '',  # напишите свой пароль
         'HOST': 'localhost',
         'PORT': '5432',
     }
